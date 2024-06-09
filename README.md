@@ -12,7 +12,7 @@
 - Database: MongoDB, MySQL, Redis
 - Technology: RabbitMQ, Azure, AWS, Git, Jira, Unity
 
-## 😎 Find me at
+## 🔍 Find me at
 
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/rex-c-chang)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/rex-c-chang)
