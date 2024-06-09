@@ -1,16 +1,19 @@
-## Hi there 👋
+## 👋 Hi there, I'm Rex
 
-<!--
-**rex-c-chang/rex-c-chang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 Software Engineer passionate about backend development and DevOps
+- 📚 Currently reading [The Effective Engineer](https://www.amazon.com/Effective-Engineer-Engineering-Disproportionate-Meaningful/dp/0996128107)
+- 🐕 In my free time, I enjoy walking my dog and spending time with family
 
-Here are some ideas to get you started:
+## 🪄 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Programming Languages: Python, JavaScript, TypeScript, C#
+- Backend Development: Django, Node.js, Express.js
+- DevOps: Docker, Kubernetes, Terraform, Ansible, EFK Stack, Prometheus, Grafana, Jenkins, Azure Pipelines, Nginx
+- Database: MongoDB, MySQL, Redis
+- Technology: RabbitMQ, Azure, AWS, Git, Jira, Unity
+
+## 😎 Find me at
+
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/rex-c-chang)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/rex-c-chang)
+[![Stack Overflow](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/8693034/rex-chang)
