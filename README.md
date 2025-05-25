@@ -16,4 +16,3 @@
 
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/rex-c-chang)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/rex-c-chang)
-[![Stack Overflow](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/8693034/rex-chang)
